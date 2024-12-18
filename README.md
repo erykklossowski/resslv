@@ -1,6 +1,8 @@
 # resslv
 # Rich app
 
+In memoriam Marc Rich, the king of the commodities arbitrage
+
 This project models and optimizes a single battery's and/or aggregated batterries operation using:
 - Hidden Markov Models (HMM) for price categorization and forecasting.
 - Reinforcement Learning (RL) for schedule optimization.
