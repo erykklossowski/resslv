@@ -1,4 +1,4 @@
-# Object Design
+# Object Design, by courtesy of ChatGPT :)
 
 This document outlines the high-level object design for the Rich app.
 
